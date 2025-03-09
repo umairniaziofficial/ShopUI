@@ -41,6 +41,7 @@
     "react-dom": "^18",
     "react-redux": "^9.1.2",
     "recharts": "^2.13.3",
+    "sharp": "^0.33.5",
     "shop.co": "file:",
     "sonner": "^1.7.0",
     "tailwind-merge": "^2.5.4",
